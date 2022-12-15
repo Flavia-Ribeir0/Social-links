@@ -1,10 +1,11 @@
 # Social-links
 
-![preview](./.github/preview.png)
+![preview](https://user-images.githubusercontent.com/113454052/207938633-1ad83d8d-e1c1-4c20-a79b-2be6f272a95c.png)
+
 
 Página de links para Bio do Instagram
 
-[Click aqui para acessar](https://github.com/Flavia-Ribeir0/Social-links.git)
+[Click aqui para acessar](http://Flavia-Ribeir0.github.io/Social-links/)
 
 ## Tecnologias
 
