@@ -5,7 +5,7 @@
 
 Página de links para Bio do Instagram
 
-[Click aqui para acessar](http://Flavia-Ribeir0.github.io/Social-links/)
+[Click aqui para acessar](https://social-links-ashy.vercel.app/)
 
 ## Tecnologias
 
