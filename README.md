@@ -1,6 +1,6 @@
 # Social-links
 
-![preview](./.github/preview.jpeg)
+![preview](./.github/preview.png)
 
 Página de links para Bio do Instagram
 
